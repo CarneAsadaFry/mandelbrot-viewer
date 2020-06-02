@@ -15,7 +15,7 @@ public class Main extends Application {
 	final static int HEIGHT = 640;
 
 	final static int CURSOR_WIDTH = 32;
-	final static int MAX_ITER = 50000;
+	final static int MAX_ITER = 500;
 
 	final static Rectangle[][] image = new Rectangle[WIDTH][HEIGHT];
 
